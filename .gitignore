@@ -2,6 +2,7 @@
 .metadata/
 
 # Compiled class file
+javadev/bin/
 *.class
 
 # Log file
